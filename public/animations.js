@@ -68,6 +68,7 @@ const headerProducts = [
     src: "/assets/gunter.webp",
     href: "/assets/pdf/Gunter.pdf",
   },
+
   {
     title: "Jungle",
     collection: "Wall Lights",
